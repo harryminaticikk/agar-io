@@ -1,8 +1,8 @@
-Selamlar. Discord, Skype ve diğer insanlarla konuşabileceğiniz yerleri bırakın... Website arayüzü ile diğer insanlarla konuşabilirsiniz.
-Altyapı bana ait değildir, tarafımca editlenmiştir.
+**Selamlar.** Kendi kurallarınızı koyabileceğiniz bir yeme yarışmasına var mısınız? Kendi oyununuzu oluşturun!
+Altyapı bana ait değildir, tarafımca düzenlenmiştir.
 
-[Demo Sürümü](https://online-chat-web.glitch.me/) - 
-[Glitch Altyapı](https://online-chat-web.glitch.me)
+[Demo Sürümü](https://agario-games.glitch.me/) - 
+[Glitch Altyapı](https://glitch.com/~agario-games/)
 
 **ARAYÜZ**
-![image](https://user-images.githubusercontent.com/45299268/147824446-da6690c9-2f4e-4e3f-a6bc-4a3da5399d47.png)
+![image](https://user-images.githubusercontent.com/45299268/147845746-db5156f2-00c5-4ccc-9b96-72bf45674b78.png)
